@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai
+agno
+phi
+duckdb
+matplotlib
